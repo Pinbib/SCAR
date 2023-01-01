@@ -426,7 +426,188 @@ class Keyboard {
       }
     })
   };
-
+  A(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyA' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  B(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyB' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  C(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyC' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  D(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyD' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  E(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyE' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  F(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyF' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  G(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyG' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  H(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyH' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  I(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyI' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  J(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyJ' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  K(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyK' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  L(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyL' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  M(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyM' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  N(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyN' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  O(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyO' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  P(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyP' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  Q(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyQ' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  R(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyR' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  S(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyS' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  T(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyT' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  U(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyU' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  V(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyV' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  W(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyW' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  X(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyX' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  Y(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyY' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
+  Z(func) {
+    document.addEventListener('keydown', (event) => {
+      if (event.code == 'KeyZ' && (event.ctrlKey || event.metaKey)) {
+        func();
+      }
+    })
+  };
 };
 
 
